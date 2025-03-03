@@ -18,7 +18,7 @@ jobs:
         uses: "actions/checkout@v4"
         with:
           path: "uk"
-          repository: "php/doc-uk"
+          repository: "Ayesh/doc-uk"
 
       - name: "Checkout php/doc-en"
         uses: "actions/checkout@v4"
