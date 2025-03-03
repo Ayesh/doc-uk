@@ -11,5 +11,4 @@ jobs:
   build:
     uses: Ayesh/doc-base/.github/workflows/reusable.yml@master
     with:
-      repo: 'php/doc-uk'
       language: 'uk'
